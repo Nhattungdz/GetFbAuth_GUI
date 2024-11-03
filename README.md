@@ -1,6 +1,6 @@
 # GetFbAuth_LdPlayer!
 ![image](https://user-images.githubusercontent.com/44217992/146957552-17ca9f02-7810-4a16-847d-1531546fdd6c.png)
-
+c_user=61554807371873;xs=10:WaM4PRNiiYGvjQ:2:1730202094:-1:6229;fr=0xrCCzEEKeEJlatMJ.AWXoJep2RIUq2aU6fiyGHIe9Rv8.BnIMns..AAA.0.0.BnIMns.AWXB3OLrnD8;datr=7MkgZ0p2rYz7l2zhCW_klU4R;
 
 Get fb token &amp; cookie from Ld Player + Nox using Adb
 
